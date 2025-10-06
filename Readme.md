@@ -1,4 +1,4 @@
-# Breast Cancer Decision Tree (From Scratch)
+# Breast Cancer Decision Tree
 
 ## 📘 Overview
 This project implements a **Decision Tree Classifier ** (without scikit-learn) to classify breast cancer patients as `Alive` or `Dead` based on the SEER dataset.  
@@ -56,8 +56,10 @@ Two plots will appear:
 ---
 
 ## 📂 Files
-- `Breasr_Cancer_one.ipynb` → Main implementation notebook.
-- `Breast_Cancer.csv` → Dataset file.
+- `notebook/Breasr_Cancer_one.ipynb` → Main implementation notebook.
+- `result/Prediction.csv` → Prediction file.
+- `model/DecisionTree_metrics.csv` → Model file.
+- `data/Breast_Cancer.csv` → Dataset file.
 - `README.txt` → This instruction file.
 
 ---
